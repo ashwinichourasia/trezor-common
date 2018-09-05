@@ -184,8 +184,8 @@
             "marketcap_usd": 5570454,
             "name": "Flashcoin",
             "shortcut": "FLASH",
-            "t1_enabled": "soon",
-            "t2_enabled": "soon",
+            "t1_enabled": "yes",
+            "t2_enabled": "yes",
             "type": "coin",
             "wallet": {}
         },
